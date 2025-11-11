@@ -1,0 +1,14 @@
+{
+  "name": "learnsphere-n8n",
+  "version": "1.0.0",
+  "description": "n8n deployment for LearnSphere",
+  "scripts": {
+    "start": "n8n start"
+  },
+  "dependencies": {
+    "n8n": "^1.46.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
